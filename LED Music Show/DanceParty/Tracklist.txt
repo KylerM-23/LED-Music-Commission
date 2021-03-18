@@ -1,0 +1,15 @@
+DanceParty/Blue_Destination.wav
+DanceParty/The_Decisive_Collision.wav
+DanceParty/The_Glint_of_Cold_Steel.wav
+DanceParty/Cheap_Trap.wav
+DanceParty/Eliminate_Crisis!.wav
+DanceParty/Skies_of_a_Strange_Land.wav
+DanceParty/To_Grasp_Tomorrow.wav
+DanceParty/A_Mighty_Power.wav
+DanceParty/Holy_Saint_Holy_Sprit.wav
+DanceParty/Tie_a_Link_of_ARCUS!.wav
+DanceParty/Opening_The_Path_With_These_Hands!.wav
+DanceParty/Transcend_Beat.wav
+DanceParty/Exceed!.wav
+DanceParty/Don't_be_Defeated_by_a_Friend!.wav
+DanceParty/Bring_up_Trust!.wav
